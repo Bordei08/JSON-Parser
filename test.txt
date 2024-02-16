@@ -1,0 +1,30 @@
+{
+  "company": "Big Corporation",
+  "address": "123 Main Street",
+  "city": "Metropolis",
+  "state": "CA",
+  "employees": [
+    { "id": 1, "name": "John Smith", "age": 35, "department": "Engineering" },
+    { "id": 2, "name": "Jane Doe", "age": 40, "department": "Marketing" },
+    { "id": 3, "name": "Alice Johnson", "age": 45, "department": "Finance" },
+    { "id": 4, "name": "Bob Brown", "age": 50, "department": "HR" },
+    { "id": 5, "name": "Emily Davis", "age": 55, "department": "Sales" },
+    { "id": 6, "name": "Michael Wilson", "age": 60, "department": "IT" }
+  ],
+  "products": [
+    { "id": 101, "name": "Product A", "price": 19.99, "quantity": 100 },
+    { "id": 102, "name": "Product B", "price": 29.99, "quantity": 50 },
+    { "id": 103, "name": "Product C", "price": 39.99, "quantity": 25 },
+    { "id": 104, "name": "Product D", "price": 49.99, "quantity": 75 },
+    { "id": 105, "name": "Product E", "price": 59.99, "quantity": 30 },
+    { "id": 106, "name": "Product F", "price": 69.99, "quantity": 40 }
+  ],
+  "departments": [
+    { "id": 1, "name": "Engineering", "location": "Floor 1" },
+    { "id": 2, "name": "Marketing", "location": "Floor 2" },
+    { "id": 3, "name": "Finance", "location": "Floor 3" },
+    { "id": 4, "name": "HR", "location": "Floor 4" },
+    { "id": 5, "name": "Sales", "location": "Floor 5" },
+    { "id": 6, "name": "IT", "location": "Floor 6" }
+  ]
+}
